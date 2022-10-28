@@ -1,0 +1,2 @@
+# mangxing
+init_moudle
